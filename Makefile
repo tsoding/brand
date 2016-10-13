@@ -1,4 +1,4 @@
-PNGS=avatar.png offline.png splash.png soon.png
+PNGS=avatar.png offline.png splash.png soon.png brb.png
 
 all: $(PNGS)
 
