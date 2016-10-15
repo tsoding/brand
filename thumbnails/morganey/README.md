@@ -6,4 +6,4 @@
 
 ## Generate For Range of Episodes
 
-    $ make $(sed 100 | xargs -Ixx echo "morganey-xx.png") -j5
+    $ make $(seq 100 | xargs -Ixx echo "morganey-xx.png") -j5
