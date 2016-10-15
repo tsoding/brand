@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="splash.svg"
+   sodipodi:docname="morganey.svg"
    inkscape:export-filename="/home/rexim/Dropbox/Art/tsoding-art/splash.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1534.5281"
-     inkscape:cy="382.34891"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="2290.7238"
+     inkscape:cy="369.23766"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -87,25 +87,25 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:107.52516937px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e4e4ef;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="63.759552"
+       x="140.12709"
        y="461.73883"
        id="text4142"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4144"
-         x="63.759552"
+         x="140.12709"
          y="461.73883"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:483.86325073px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#e4e4ef;fill-opacity:1">(λ o.o)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:513.62481689px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#8fe43b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1663.7693"
+       x="1740.1367"
        y="513.67169"
        id="text4146"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4148"
-         x="1663.7693"
+         x="1740.1367"
          y="513.67169"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#8fe43b;fill-opacity:1">EPISODE_NUMBER</tspan></text>
   </g>
