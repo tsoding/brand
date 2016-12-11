@@ -1,4 +1,4 @@
-beatwave-%.png: beatwave-%.svg
+beatwave-%.png: beatwave-%.svg background.png
 	convert $< $@
 
 beatwave-%.svg: beatwave.svg.in
