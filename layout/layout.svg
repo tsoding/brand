@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="layout.svg"
-   inkscape:export-filename="/home/streamer/Programming/tsoding/brand/layout/horizontal-strip.png"
+   inkscape:export-filename="/home/streamer/Programming/tsoding/brand/layout/layout.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="744.78116"
-     inkscape:cy="466.11586"
+     inkscape:zoom="5.6"
+     inkscape:cx="92.288772"
+     inkscape:cy="1047.3874"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,7 +39,12 @@
      inkscape:window-height="1023"
      inkscape:window-x="0"
      inkscape:window-y="31"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -48,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,7 +68,7 @@
        width="1920"
        height="28"
        x="0"
-       y="1024.3622"
+       y="-27.637838"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
