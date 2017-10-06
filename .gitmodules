@@ -1,3 +1,6 @@
 [submodule "brand-assets/tsoder-brand"]
 	path = brand-assets/tsoder-brand
 	url = git@github.com:tsoding/tsoder-brand.git
+[submodule "brand-assets/gross-brand"]
+	path = brand-assets/gross-brand
+	url = git@github.com:tsoding/gross-brand.git
